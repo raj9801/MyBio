@@ -12,7 +12,7 @@ export default function App() {
               style={styles.profileImage}
             />
             <Text style={styles.name}>Raj Trusharkumar Patel</Text>
-            <Text style={styles.tagline}> Designer | Developer | Coder </Text>
+            <Text style={styles.tagline}> Designer | Developer </Text>
           </View>
 
           <View style={styles.section}>
