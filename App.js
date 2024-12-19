@@ -36,7 +36,7 @@ export default function App() {
               <Text style={styles.skill}>Javascript</Text>
               <Text style={styles.skill}>UI/UX Design</Text>
               <Text style={styles.skill}>Backend Development</Text>
-              <Text style={styles.skill}>Cloud Integration</Text>
+              <Text style={styles.skill}>Cloud Computing</Text>
             </View>
           </View>
 
